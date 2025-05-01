@@ -4,5 +4,5 @@ this is a git and github demo class.
 # Teacher
 Shradha Khapra
 
-# Studdnt
+# Student
 Mukesh Puri
